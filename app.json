@@ -1,5 +1,5 @@
 {
-  "name": "FLASH-MD",
+  "name": "Xee-MD",
   "description": "An easy and simple WhatsApp bot developed by France King",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://telegra.ph/file/dfccbf12397757c321ac4.jpg",
@@ -79,12 +79,12 @@
     },
     "OWNER_NAME": {
       "description": "Enter the name of the bot owner. This name will be displayed when required.",
-      "value": "France King",
+      "value": "Xee",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your phone number without the '+' sign. Use your country code (e.g., '254' for Kenya).",
-      "value": "254751284190",
+      "value": "923489585598",
       "required": false
     },
     "WARN_COUNT": {
@@ -104,7 +104,7 @@
     },
     "PRESENCE": {
       "description": "Choose how you want to appear to others: 'online' (always online), 'typing' (currently typing), 'recording' (currently recording audio), or leave blank for real-time presence.",
-      "value": "",
+      "value": "online",
       "required": false
     }
   },
